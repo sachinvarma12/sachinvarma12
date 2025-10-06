@@ -15,7 +15,7 @@
       <ul>
         <li>🌱 Currently learning advanced React & Node.js</li>
         <li>💼 Open to freelance & collaborative projects</li>
-        <li>📬 Reach me at: <a href="mailto:your-email@example.com">your-email@example.com</a></li>
+        <li>📬 Reach me at: <a href="mailto:sachinvarma10106@gmail.com">sachinvarma10106@gmail.com</a></li>
       </ul>
     </td>
   </tr>

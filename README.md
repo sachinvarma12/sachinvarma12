@@ -1,8 +1,27 @@
 ## Hi 👋 I am Sachin Varma 
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/f941864e-1d6c-49ed-90d5-d962474b2b17" alt="WhatsApp Image" width="550" hight="200"/>
-</p>
+<table>
+  <tr>
+    <td width="40%">
+      <img src="https://github.com/user-attachments/assets/9FnEHhStqp2PyH5SgCgJ15" alt="Sachin Varma Logo" width="100%"/>
+    </td>
+    <td width="60%">
+      <h3>🚀 Fullstack Web Developer</h3>
+      <p>
+        Hi! I'm <b>Sachin Varma</b>, a passionate and creative <b>Fullstack Web Developer</b> with a strong focus on building modern, user-friendly, and efficient web applications.  
+        I love working with the latest technologies and constantly learning to improve my skills.  
+        My goal is to create impactful digital solutions that make a difference 🌐.
+      </p>
+      <ul>
+        <li>🌱 Currently learning advanced React & Node.js</li>
+        <li>💼 Open to freelance & collaborative projects</li>
+        <li>📬 Reach me at: <a href="mailto:your-email@example.com">your-email@example.com</a></li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
 
 ### 🔗 Connect with me
 <p align="center">

@@ -13,7 +13,7 @@
         My goal is to create impactful digital solutions that make a difference 🌐.
       </p>
       <ul>
-        <li>🌱 Currently learning advanced React & Node.js</li>
+        <li>🌱 Currently learning OpenCV & Python</li>
         <li>💼 Open to freelance & collaborative projects</li>
         <li>📬 Reach me at: <a href="mailto:sachinvarma10106@gmail.com">sachinvarma10106@gmail.com</a></li>
       </ul>
@@ -60,9 +60,9 @@
 
 ### ⚡ Fun Facts
 - 🔭 I’m currently working on building fullstack web applications  
-- 🌱 I’m currently learning advanced React and Node.js concepts  
+- 🌱 I’m currently learning OpenCV and Python concepts  
 - 👯 I’m looking to collaborate on open-source projects  
 - 💬 Ask me about Web Development, JS frameworks, and Databases  
-- 📫 How to reach me: [Email me](mailto:your-email@example.com)  
+- 📫 How to reach me: [Email me](sachinvarma10106@gmail.com)  
 - 😄 Pronouns: He/Him  
 - ⚡ Fun fact: Coffee fuels my coding ☕
